@@ -1,0 +1,5 @@
+﻿  CollectionTesting.cpp
+  Source.cpp
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.22.27905\include\Collection.h(15,1): error C1189:  #error:  collection.h requires the /ZW compiler option.
+C:\Users\igozm\OneDrive - weber.edu\Fall 2019\Data Structures and Algorithms\Programs\Mod 1 Try it out Collection\Source.cpp(108): error C4716:  'operator<<': must return a value
